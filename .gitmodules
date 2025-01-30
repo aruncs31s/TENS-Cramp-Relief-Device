@@ -1,0 +1,6 @@
+[submodule "TENS-Cramp-Relief-Device-Schematics"]
+	path = TENS-Cramp-Relief-Device-Schematics
+	url = https://github.com/aruncs31s/TENS-Cramp-Relief-Device-Schematics
+[submodule "TENS-Cramp-Relief-Device-Code"]
+	path = TENS-Cramp-Relief-Device-Code
+	url = https://github.com/aruncs31s/TENS-Cramp-Relief-Device-Code
